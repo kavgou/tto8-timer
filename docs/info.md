@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A timer that can count up to 16 values.
 
 ## How to test
 
-Explain how to use your project
+Set the inputs and check the outputs.
 
 ## External hardware
 
